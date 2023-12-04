@@ -6,7 +6,7 @@ It will help to pin down what is wrong with Comcast's customer service.
 
 # Analysis Task
 
-# To perform these tasks, you can use any of the different Python libraries such as NumPy, SciPy, Pandas, scikit-learn, matplotlib, and BeautifulSoup.
+ To perform these tasks, you can use any of the different Python libraries such as NumPy, SciPy, Pandas, scikit-learn, matplotlib, and BeautifulSoup.
 
 - Import data into Python environment.
 - Provide the trend chart for the number of complaints at monthly and daily granularity levels.
